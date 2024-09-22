@@ -1,1 +1,1 @@
-![114514](https://www.hostize.com/zh/v/Gi4UbtDRFr)
+![114514](https://raw.githubusercontent.com/meixiyuanblue/meixiyuanblue.github.io/meixiyuan-github/ziyuanzhan/1.png)
