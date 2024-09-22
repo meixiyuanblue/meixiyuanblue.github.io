@@ -2,11 +2,7 @@
 
 > 2024.9.22
 
-```javascript
-$(document).ready(function () {
-    alert('RUNOOB');
-});
-```
+
 
 ---
 
