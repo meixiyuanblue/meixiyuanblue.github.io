@@ -6,5 +6,5 @@
 
 ---
 
-## 美西螈资源:站
-
+## 美西螈资源站:
+[资源站](https://meixiyuanblue.github.io/zyz)

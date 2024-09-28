@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+    color: white; /* 默认文字颜色 */
+}
+
+p {
+    color: white; /* 段落文字颜色 */
+}
+
+h1 {
+    color: #FF5733; /* 红色 */
+}
+
+h2 {
+    color: #33FF57; /* 绿色 */
+}
+
+h3 {
+    color: #3357FF; /* 蓝色 */
+}
+
+h4 {
+    color: #F1C40F; /* 黄色 */
+}
+
+h5 {
+    color: #8E44AD; /* 紫色 */
+}
+
+h6 {
+    color: #E67E22; /* 橙色 */
+}
