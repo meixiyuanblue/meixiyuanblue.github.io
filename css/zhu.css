@@ -1,32 +1,32 @@
 body {
-    background-color: black;
-    color: white; /* 默认文字颜色 */
+    background-color: #00001a;
+    color: white; 
 }
 
 p {
-    color: white; /* 段落文字颜色 */
+    color: white; 
 }
 
 h1 {
-    color: #FF5733; /* 红色 */
+    color: #959fff; 
 }
 
 h2 {
-    color: #33FF57; /* 绿色 */
+    color: #ffffff; 
 }
 
 h3 {
-    color: #3357FF; /* 蓝色 */
+    color: #ffffff; 
 }
 
 h4 {
-    color: #F1C40F; /* 黄色 */
+    color: #ffffff; 
 }
 
 h5 {
-    color: #8E44AD; /* 紫色 */
+    color: #ffffff; 
 }
 
 h6 {
-    color: #E67E22; /* 橙色 */
+    color: #ffffff; 
 }
